@@ -1,10 +1,10 @@
 ﻿{
-    "latestVersion":  "1.0.2.2",
-    "downloadUrl":  "https://github.com/mhmdasb0-cmyk/BOBY-IDPHOTO-UPDATES/releases/download/v1.0.1.1/boby_v1.0.1.1.zip",
-    "sha256":  "18C0A0C491F5274E1567EDD5AB93B4445D3A253FDB6587E03F4C8E8A01A59714",
-    "fileSizeBytes":  530145,
-    "releaseNotes":  "نسخة صالحة لاختبار نظام التحديث الجديد",
-    "releaseDateUtc":  "2026-06-20T09:52:10.8195844Z",
+    "latestVersion":  "1.0.1.2",
+    "downloadUrl":  "https://github.com/mhmdasb0-cmyk/BOBY-IDPHOTO-UPDATES/releases/download/v1.0.1.2/boby_v1.0.1.2.zip",
+    "sha256":  "CFB8C9C418A3E64DD32BB6C683B1AE7E8D41B63C0BD528B76A41FC00ABD111F7",
+    "fileSizeBytes":  535912,
+    "releaseNotes":  "اختبار تحديث من 1.0.1.1 إلى 1.0.1.2",
+    "releaseDateUtc":  "2026-06-20T11:03:57.6437625Z",
     "mandatory":  false,
-    "minSupportedVersion":  "1.0.1.0"
+    "minSupportedVersion":  "1.0.1.1"
 }
