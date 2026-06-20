@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.0.1.5",
-  "downloadUrl": "https://github.com/mhmdasb0-cmyk/BOBY-IDPHOTO-UPDATES/releases/download/v1.0.1.5/boby_v1.0.1.5.zip",
-  "sha256": "24759EF286AF6DEE18EF7C1A38940A18F5AE4AB51DF9D4784D5948C312996B42",
-  "fileSizeBytes": 505489,
+  "latestVersion": "1.0.1.6",
+  "downloadUrl": "https://github.com/mhmdasb0-cmyk/BOBY-IDPHOTO-UPDATES/releases/download/v1.0.1.6/boby_v1.0.1.6.zip",
+  "sha256": "359AD8EE7D61BFF9DF0978ABCC98E1D54C0D6C8A8AABD7C88357B1ABEDAAB3BE",
+  "fileSizeBytes": 505488,
   "releaseNotes": "\u062A\u062D\u0633\u064A\u0646\u0627\u062A \u0639\u0627\u0645\u0629",
-  "releaseDateUtc": "2026-06-20T16:30:27.4759417Z",
+  "releaseDateUtc": "2026-06-20T16:37:37.8789675Z",
   "mandatory": false,
   "minSupportedVersion": "1.0.1.1"
 }
