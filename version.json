@@ -1,6 +1,10 @@
 {
   "latestVersion": "1.0.1.1",
   "downloadUrl": "https://github.com/mhmdasb0-cmyk/BOBY-IDPHOTO-UPDATES/releases/download/v1.0.1.1/boby_v1.0.1.1.zip",
-  "fileName": "boby_v1.0.1.1.zip",
-  "notes": "تم اصلاح الاخطاء و تصحيح المنطق الحسابي وتفعيل تعدد اللغات و الوضع الليلي و تطوير منطق البيع ليكون اكثر سرعة و خدمية"
+  "sha256": "SHA_HERE",
+  "fileSizeBytes": 0,
+  "releaseNotes": "اختبار نظام التحديث الجديد",
+  "releaseDateUtc": "2026-06-20T00:00:00Z",
+  "mandatory": false,
+  "minSupportedVersion": "1.0.1.0"
 }
